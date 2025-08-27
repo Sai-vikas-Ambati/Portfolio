@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Portfolio Website
 
 A beautiful, responsive portfolio website built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion. Features a modern glass-morphism design with smooth animations and interactive project showcases.
@@ -179,3 +180,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ using Next.js 15 
+=======
+# Portfolio
+>>>>>>> e8df2db83439febde8aac302686623f04a3eee07
